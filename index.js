@@ -4,53 +4,53 @@
 const hitParade = [
     {
         position: 1,
-        artist: `Jain`,
-        title: `Come`
+        title: "Fortnight",
+        artist: "Taylor Swift, Post Malone"
     },
     {
         position: 2,
-        artist: `Matt Simons`,
-        title: `Catch & Realease`
+        title: "Austin",
+        artist: "Dasha"
     },
     {
         position: 3,
-        artist: `Twety One Pilots`,
-        title: `Stressed Out`,
+        title: "Eyes Closed",
+        artist: "Imagine Dragons"
     },
     {
         position: 4,
-        artist: `Justin Bieber`,
-        title: `Love Yourself`,
+        title: "Is It Love",
+        artist: "Loreen"
     },
     {
         position: 5,
-        artist: `Kids United`,
-        title: `On écrit sur les murs`,
+        title: "Die With A Smile",
+        artist: "Lady Gaga, Bruno Mars"
     },
     {
         position: 6,
-        artist: `Rihanna`,
-        title: `Work`,
+        title: "Belong Together",
+        artist: "Mark Ambor"
     },
     {
         position: 7,
-        artist: `Julian Perretta`,
-        title: `Miracle`,
+        title: "The Sound Of Silence",
+        artist: "Disturbed"
     },
     {
         position: 8,
-        artist: `Yall`,
-        title: `Hundred Miles`,
+        title: "I Had Some Help",
+        artist: "Post Malone"
     },
     {
         position: 9,
-        artist: `Kendji Girac`,
-        title: `No Me Mirès Màs`,
+        title: "Gata Only",
+        artist: "Floyy Menor, Cris Mj"
     },
     {
         position: 10,
-        artist: `Feder`,
-        title: `Blind (feat. Emmi)`,
+        title: "Substitution",
+        artist: "Purple Disco Machine, Kungs"
     },
 ];
 
